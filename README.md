@@ -22,7 +22,7 @@ The objective is to understand how different state governments design startup ec
 
 ## Research Scope
 
-![Research Scope](images/03_Research_scope.png)
+![Research Scope](images/03_Research_ scope.png)
 
 ---
 
@@ -60,7 +60,7 @@ startup-policy-analysis-India/
 ├── images/
 │   ├── 01_research_methodology.png
 │   ├── 02_policy_evaluation_framework.png
-│   └── 03_Research_scope.png
+│   └── 03_Research_ scope.png
 │
 └── references/
     └── sources.md
