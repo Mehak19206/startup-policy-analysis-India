@@ -16,7 +16,7 @@ The objective is to understand how different state governments design startup ec
 
 ## Policy Evaluation Framework
 
-![Policy Evaluation Framework](images/02_Policy_evaluation_framework.png)
+![Policy Evaluation Framework](images/02_policy_evaluation_framework.png)
 
 ---
 
