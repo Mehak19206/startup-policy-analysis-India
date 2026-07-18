@@ -60,7 +60,7 @@ startup-policy-analysis-India/
 ├── images/
 │   ├── 01_research_methodology.png
 │   ├── 02_policy_evaluation_framework.png
-│   └── 03_key_research_dimensions.png
+│   └── 03_Research_scope.png
 │
 └── references/
     └── sources.md
